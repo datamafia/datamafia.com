@@ -18,7 +18,7 @@
 # Edit REPONAME to match Repo name
 
 # If this file has changed run:
-#  mv ~/{PRODUCTION}/deploy.sh ~/deploy.sh
+#  mv ~/github/datamafia.com/deploy.sh ~/deploy.sh
 
 # best to configure to run from ~/
 
