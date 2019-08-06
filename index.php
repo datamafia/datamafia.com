@@ -1,6 +1,6 @@
 <?
 include 'lib/https.php';
-include 'header.php';
+include 'lib/header.php';
 // include 'lib/media-query-debugging.php';  // uncomment for local debugging
 ?>
 <body>
@@ -66,14 +66,14 @@ include 'header.php';
     </div> <!-- end intro -->
 </div> <!-- end parallax background -->
 
-<? include 'nav.php'; ?>
+<? include 'lib/nav.php'; ?>
 
 <div id="skrollr-body">
-    <? include 'section_1.php'; ?>
+    <? include 'lib/section_1.php'; ?>
     <div id="stopTwitchInMobile" class="gap gap-fixed-height-small"
          style="background-image:url(images/bg2.jpg);">
         <?
-        include 'sometimes.php';
+        include 'lib/sometimes.php';
         ?>
     </div> <!-- end parallax background -->
 
