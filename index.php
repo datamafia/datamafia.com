@@ -310,7 +310,7 @@ include 'header.php';
                     <p>
                         Communication occurs on many channels. Instant message,
                         phone, team platforms, project management software,
-                        video services
+                        video services,
                         and email (the best place to begin).
                     </p>
                 </div> <!-- end col-lg-6 -->
@@ -340,7 +340,13 @@ include 'header.php';
                                href="https://irlmarc.substack.com/"><img
                                         id='substacklogo'
                                         src="/images/substack.png"/></a></li>
+                        <li><a title="Angel List"
+                               target="_blank"
+                               href="https://angel.co/python-dev"><img
+                                        id='angelist'
+                                        src="/images/angelist.png"/></a></li>
                     </ul>
+
                 </div> <!-- end col-lg-6 -->
             </div> <!-- end row -->
             <div class="row">

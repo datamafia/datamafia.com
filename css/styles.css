@@ -238,8 +238,9 @@ a.icn-youtube {
 a.icn-github {
     background: #171515;
 }
-#substacklogo {
-    height: 20px;
+#substacklogo, #angelist {
+    height: 22px;
+    padding-bottom:.2em;
 }
 
 /*
