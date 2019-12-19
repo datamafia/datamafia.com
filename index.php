@@ -325,7 +325,7 @@ include 'lib/header.php';
                                         class="fa fa-github-square"></i></a>
                         </li>
                         <li><a title="Connect on LinkedIn" target="_blank"
-                               href="https://www.linkedin.com/in/python-dev/"><i
+                               href="https://www.linkedin.com/in/irlmarc/"><i
                                         class="fa fa-linkedin-square"></i></a>
                         </li>
                         <li><a title="Stackoverflow profile" target="_blank"
